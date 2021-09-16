@@ -3,6 +3,7 @@
 module.exports = function (environment) {
   let ENV = {
     modulePrefix: 'github-list-repositories',
+    podModulePrefix: 'github-list-repositories/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',

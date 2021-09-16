@@ -55,3 +55,14 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+
+
+7 days access token
+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
+
+
+ember g component app-nav
+ember g route index
+ember g route repositories
+ember g service api-github
